@@ -1,5 +1,5 @@
 {
-  "name": "wave-vms",
+  "name": "vms-flow",
   "private": true,
   "type": "module",
   "imports": {
